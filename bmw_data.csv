@@ -1,0 +1,601 @@
+model,year,km_driven,fuel_type,transmission,price
+X1,2010,77097,Petrol,Automatic,1800000
+3 Series,2021,147964,Petrol,Manual,2000000
+3 Series,2013,137475,Petrol,Automatic,2000000
+X3,2016,62787,Petrol,Automatic,2800000
+3 Series,2022,46853,Diesel,Manual,2000000
+5 Series,2022,93236,Petrol,Automatic,3000000
+5 Series,2015,74342,Petrol,Automatic,3000000
+X5,2016,25656,Petrol,Automatic,4500000
+X3,2010,64742,Petrol,Automatic,2800000
+X5,2016,77869,Petrol,Automatic,4500000
+5 Series,2020,74986,Petrol,Automatic,3000000
+5 Series,2017,104471,Diesel,Automatic,3000000
+X5,2022,19663,Diesel,Automatic,5770000
+7 Series,2011,60307,Petrol,Automatic,5500000
+7 Series,2020,125285,Petrol,Automatic,5500000
+X3,2018,73876,Petrol,Automatic,2800000
+X5,2012,138569,Petrol,Automatic,4500000
+X5,2012,46938,Petrol,Automatic,4500000
+X1,2017,143704,Diesel,Automatic,1800000
+3 Series,2018,74946,Diesel,Automatic,2000000
+3 Series,2010,74045,Petrol,Automatic,2000000
+5 Series,2020,138080,Petrol,Automatic,3000000
+3 Series,2022,144029,Petrol,Manual,2000000
+3 Series,2015,85612,Petrol,Automatic,2000000
+X1,2011,27453,Diesel,Automatic,1800000
+X1,2012,38657,Diesel,Automatic,1800000
+X5,2016,60521,Diesel,Automatic,4500000
+X3,2015,119845,Petrol,Automatic,2800000
+3 Series,2010,65323,Petrol,Automatic,2000000
+X1,2013,22668,Petrol,Manual,1800000
+5 Series,2020,132248,Petrol,Automatic,3000000
+X5,2019,128907,Diesel,Automatic,4500000
+3 Series,2011,117997,Diesel,Manual,2000000
+X5,2010,30799,Diesel,Automatic,4500000
+X3,2011,70183,Diesel,Automatic,2800000
+3 Series,2012,78018,Diesel,Automatic,2000000
+3 Series,2022,149264,Petrol,Automatic,2000000
+X1,2010,29448,Petrol,Automatic,1800000
+X1,2023,110130,Petrol,Automatic,1800000
+X5,2014,124277,Petrol,Automatic,4500000
+X3,2022,132577,Diesel,Automatic,2800000
+X5,2019,147133,Diesel,Automatic,4500000
+X1,2018,144231,Petrol,Automatic,1800000
+3 Series,2012,22962,Petrol,Automatic,2000000
+X5,2019,69543,Diesel,Automatic,4500000
+X1,2018,87934,Diesel,Automatic,1800000
+5 Series,2014,108752,Petrol,Automatic,3000000
+X5,2011,7441,Petrol,Automatic,4500000
+5 Series,2014,39722,Diesel,Automatic,3000000
+5 Series,2012,119867,Diesel,Automatic,3000000
+X1,2020,32154,Petrol,Manual,1800000
+3 Series,2018,45749,Diesel,Manual,2000000
+X3,2013,74201,Petrol,Automatic,2800000
+X5,2011,116037,Petrol,Automatic,4500000
+X3,2020,73670,Diesel,Automatic,2800000
+7 Series,2010,34327,Petrol,Automatic,5500000
+X3,2019,149841,Diesel,Automatic,2800000
+5 Series,2022,15458,Diesel,Automatic,3740000
+X3,2015,111529,Diesel,Automatic,2800000
+X5,2022,51413,Petrol,Automatic,4720000
+X5,2022,112928,Diesel,Automatic,4500000
+X3,2016,15151,Petrol,Automatic,2800000
+X5,2015,85003,Diesel,Automatic,4500000
+3 Series,2015,78034,Petrol,Manual,2000000
+X1,2020,145565,Diesel,Automatic,1800000
+X5,2012,74590,Diesel,Automatic,4500000
+5 Series,2022,87228,Diesel,Automatic,3000000
+X1,2014,16635,Diesel,Automatic,1800000
+X3,2020,56651,Petrol,Automatic,2800000
+X3,2015,87291,Diesel,Automatic,2800000
+X3,2015,110486,Petrol,Automatic,2800000
+X3,2016,50620,Petrol,Automatic,2800000
+3 Series,2014,60098,Diesel,Manual,2000000
+7 Series,2013,139001,Petrol,Automatic,5500000
+5 Series,2020,92867,Petrol,Automatic,3000000
+5 Series,2013,43627,Petrol,Automatic,3000000
+X1,2023,24091,Diesel,Manual,2060000
+X1,2021,105657,Diesel,Manual,1800000
+X3,2010,32941,Petrol,Automatic,2800000
+X5,2018,126778,Diesel,Automatic,4500000
+3 Series,2012,126803,Diesel,Manual,2000000
+X3,2018,116867,Petrol,Automatic,2800000
+X1,2014,69812,Diesel,Manual,1800000
+5 Series,2011,79901,Petrol,Automatic,3000000
+X5,2011,41273,Diesel,Automatic,4500000
+3 Series,2013,21837,Diesel,Manual,2000000
+X1,2010,59220,Diesel,Manual,1800000
+X1,2021,10120,Diesel,Manual,1800000
+5 Series,2022,107232,Diesel,Automatic,3000000
+5 Series,2017,12608,Diesel,Automatic,3000000
+X3,2021,48265,Petrol,Automatic,2860000
+X1,2016,12104,Petrol,Manual,1800000
+X1,2010,73198,Diesel,Manual,1800000
+5 Series,2022,104385,Diesel,Automatic,3000000
+3 Series,2010,146405,Petrol,Manual,2000000
+3 Series,2020,15553,Petrol,Automatic,2000000
+3 Series,2012,67533,Petrol,Manual,2000000
+X1,2013,126905,Diesel,Manual,1800000
+X1,2021,35024,Petrol,Manual,1800000
+3 Series,2014,103384,Diesel,Automatic,2000000
+X3,2020,68661,Diesel,Automatic,2800000
+X1,2011,15766,Diesel,Manual,1800000
+3 Series,2020,94451,Petrol,Manual,2000000
+3 Series,2015,125517,Petrol,Manual,2000000
+X1,2020,75800,Diesel,Manual,1800000
+X3,2014,89490,Diesel,Automatic,2800000
+7 Series,2022,126820,Petrol,Automatic,5500000
+X5,2012,132808,Diesel,Automatic,4500000
+5 Series,2019,77422,Petrol,Automatic,3000000
+X3,2017,67999,Petrol,Automatic,2800000
+3 Series,2014,63090,Diesel,Automatic,2000000
+X1,2017,144177,Diesel,Manual,1800000
+X1,2015,123946,Diesel,Manual,1800000
+3 Series,2013,87719,Petrol,Automatic,2000000
+X3,2014,142530,Petrol,Automatic,2800000
+5 Series,2015,52039,Diesel,Automatic,3000000
+3 Series,2010,19293,Diesel,Automatic,2000000
+X3,2011,8215,Petrol,Automatic,2800000
+5 Series,2010,71185,Diesel,Automatic,3000000
+7 Series,2011,19053,Petrol,Automatic,5500000
+X5,2011,70061,Diesel,Automatic,4500000
+X3,2013,141989,Petrol,Automatic,2800000
+5 Series,2019,117415,Diesel,Automatic,3000000
+X3,2022,59470,Diesel,Automatic,2890000
+3 Series,2012,149701,Petrol,Automatic,2000000
+7 Series,2019,128184,Petrol,Automatic,5500000
+X3,2021,124021,Diesel,Automatic,2800000
+X3,2020,56857,Petrol,Automatic,2800000
+X3,2014,42286,Diesel,Automatic,2800000
+5 Series,2021,80657,Diesel,Automatic,3000000
+5 Series,2016,76367,Diesel,Automatic,3000000
+3 Series,2016,89494,Diesel,Automatic,2000000
+X5,2023,10438,Petrol,Automatic,6050000
+3 Series,2018,120927,Diesel,Automatic,2000000
+7 Series,2023,133902,Petrol,Automatic,5500000
+5 Series,2020,32420,Petrol,Automatic,3080000
+X1,2020,109976,Petrol,Manual,1800000
+5 Series,2011,110952,Petrol,Automatic,3000000
+3 Series,2015,135676,Diesel,Automatic,2000000
+X1,2014,119849,Diesel,Automatic,1800000
+X1,2022,67730,Petrol,Manual,1800000
+X1,2011,63903,Petrol,Manual,1800000
+X3,2012,135646,Petrol,Automatic,2800000
+X1,2017,68892,Diesel,Automatic,1800000
+X5,2018,40784,Diesel,Automatic,4500000
+X5,2015,138100,Petrol,Automatic,4500000
+5 Series,2019,133356,Petrol,Automatic,3000000
+5 Series,2018,147456,Diesel,Automatic,3000000
+X5,2021,67601,Petrol,Automatic,4510000
+7 Series,2015,128987,Petrol,Automatic,5500000
+X3,2020,44873,Petrol,Automatic,2800000
+X5,2015,31309,Petrol,Automatic,4500000
+7 Series,2021,42789,Petrol,Automatic,5500000
+X3,2014,93751,Petrol,Automatic,2800000
+X5,2023,144885,Petrol,Automatic,4500000
+X5,2017,146824,Diesel,Automatic,4500000
+X3,2014,64634,Diesel,Automatic,2800000
+X3,2021,31347,Petrol,Automatic,2950000
+X5,2010,90032,Diesel,Automatic,4500000
+7 Series,2013,144242,Petrol,Automatic,5500000
+3 Series,2023,105281,Petrol,Manual,2000000
+3 Series,2017,71578,Diesel,Manual,2000000
+X5,2017,80400,Diesel,Automatic,4500000
+5 Series,2019,83421,Diesel,Automatic,3000000
+5 Series,2016,131670,Petrol,Automatic,3000000
+5 Series,2014,82392,Petrol,Automatic,3000000
+X1,2020,17856,Diesel,Manual,1800000
+5 Series,2022,97358,Petrol,Automatic,3000000
+X3,2021,40855,Diesel,Automatic,2830000
+7 Series,2019,100646,Petrol,Automatic,5500000
+5 Series,2016,51042,Petrol,Automatic,3000000
+X5,2015,144159,Petrol,Automatic,4500000
+X3,2017,82369,Petrol,Automatic,2800000
+3 Series,2022,64143,Diesel,Manual,2000000
+7 Series,2014,145659,Petrol,Automatic,5500000
+X3,2014,104883,Petrol,Automatic,2800000
+X1,2019,90984,Petrol,Automatic,1800000
+X1,2021,84217,Diesel,Automatic,1800000
+X5,2014,134138,Diesel,Automatic,4500000
+X1,2016,123919,Diesel,Manual,1800000
+X3,2016,30957,Petrol,Automatic,2800000
+5 Series,2021,102132,Petrol,Automatic,3000000
+5 Series,2015,31045,Diesel,Automatic,3000000
+5 Series,2011,124201,Petrol,Automatic,3000000
+X1,2010,18258,Diesel,Automatic,1800000
+X3,2013,22985,Diesel,Automatic,2800000
+5 Series,2022,43680,Petrol,Automatic,3460000
+3 Series,2012,146614,Diesel,Automatic,2000000
+X5,2012,8895,Petrol,Automatic,4500000
+3 Series,2014,18736,Petrol,Manual,2000000
+X3,2017,122512,Petrol,Automatic,2800000
+5 Series,2019,16367,Diesel,Automatic,3130000
+3 Series,2017,110281,Diesel,Automatic,2000000
+X5,2011,26178,Petrol,Automatic,4500000
+5 Series,2020,148748,Diesel,Automatic,3000000
+X1,2017,137527,Diesel,Automatic,1800000
+3 Series,2020,149529,Petrol,Manual,2000000
+5 Series,2015,123882,Diesel,Automatic,3000000
+5 Series,2015,71817,Diesel,Automatic,3000000
+X1,2011,27377,Petrol,Manual,1800000
+X3,2022,39108,Diesel,Automatic,3110000
+7 Series,2023,115870,Petrol,Automatic,5500000
+5 Series,2019,138015,Petrol,Automatic,3000000
+5 Series,2011,96780,Diesel,Automatic,3000000
+X1,2022,117489,Petrol,Manual,1800000
+5 Series,2022,85998,Diesel,Automatic,3000000
+X5,2019,110063,Diesel,Automatic,4500000
+X5,2011,144062,Diesel,Automatic,4500000
+5 Series,2015,86693,Diesel,Automatic,3000000
+3 Series,2022,18044,Petrol,Manual,2110000
+7 Series,2019,120879,Petrol,Automatic,5500000
+X1,2015,117699,Petrol,Manual,1800000
+X1,2018,85850,Petrol,Automatic,1800000
+X1,2010,58588,Diesel,Automatic,1800000
+X3,2014,91015,Diesel,Automatic,2800000
+7 Series,2012,104669,Petrol,Automatic,5500000
+X5,2010,119352,Diesel,Automatic,4500000
+X5,2019,117534,Petrol,Automatic,4500000
+7 Series,2015,50055,Petrol,Automatic,5500000
+X5,2013,119209,Petrol,Automatic,4500000
+5 Series,2015,63083,Diesel,Automatic,3000000
+X1,2018,138680,Petrol,Manual,1800000
+X5,2020,43716,Diesel,Automatic,4500000
+3 Series,2019,45073,Petrol,Automatic,2000000
+X1,2017,122677,Diesel,Manual,1800000
+3 Series,2017,84382,Diesel,Automatic,2000000
+3 Series,2017,123466,Petrol,Automatic,2000000
+5 Series,2020,28670,Diesel,Automatic,3180000
+X5,2021,15753,Petrol,Automatic,5130000
+X1,2012,21219,Diesel,Automatic,1800000
+X3,2021,27106,Diesel,Automatic,2950000
+7 Series,2017,142381,Petrol,Automatic,5500000
+5 Series,2016,93700,Petrol,Automatic,3000000
+3 Series,2020,106335,Diesel,Manual,2000000
+X3,2019,44419,Petrol,Automatic,2800000
+3 Series,2015,86325,Diesel,Automatic,2000000
+X5,2014,103744,Petrol,Automatic,4500000
+X3,2021,142990,Diesel,Automatic,2800000
+3 Series,2014,52254,Petrol,Manual,2000000
+X1,2013,41061,Petrol,Automatic,1800000
+X3,2018,146497,Diesel,Automatic,2800000
+X1,2019,103754,Petrol,Automatic,1800000
+X3,2019,48395,Petrol,Automatic,2800000
+X3,2013,121444,Petrol,Automatic,2800000
+5 Series,2022,127949,Petrol,Automatic,3000000
+X1,2017,126026,Diesel,Manual,1800000
+7 Series,2012,57349,Petrol,Automatic,5500000
+X1,2015,31893,Petrol,Manual,1800000
+3 Series,2017,139572,Petrol,Manual,2000000
+X5,2023,123260,Petrol,Automatic,4500000
+7 Series,2015,66807,Petrol,Automatic,5500000
+3 Series,2011,92894,Petrol,Automatic,2000000
+X5,2017,41383,Petrol,Automatic,4500000
+X5,2010,72088,Diesel,Automatic,4500000
+X3,2018,115953,Diesel,Automatic,2800000
+3 Series,2013,115054,Diesel,Automatic,2000000
+X5,2019,145523,Diesel,Automatic,4500000
+5 Series,2010,97488,Petrol,Automatic,3000000
+X3,2018,99530,Diesel,Automatic,2800000
+X1,2020,106418,Diesel,Manual,1800000
+5 Series,2011,95387,Petrol,Automatic,3000000
+X3,2015,39972,Diesel,Automatic,2800000
+X3,2012,126798,Petrol,Automatic,2800000
+3 Series,2022,124977,Petrol,Manual,2000000
+X3,2010,87731,Petrol,Automatic,2800000
+X1,2014,14599,Petrol,Manual,1800000
+X3,2023,92012,Petrol,Automatic,2800000
+7 Series,2016,120274,Petrol,Automatic,5500000
+X1,2017,101297,Diesel,Automatic,1800000
+3 Series,2019,52305,Diesel,Manual,2000000
+5 Series,2014,85346,Diesel,Automatic,3000000
+7 Series,2017,16103,Petrol,Automatic,5500000
+X5,2010,24671,Petrol,Automatic,4500000
+X3,2012,13163,Diesel,Automatic,2800000
+3 Series,2022,101030,Diesel,Manual,2000000
+3 Series,2012,122944,Diesel,Manual,2000000
+3 Series,2012,143794,Diesel,Manual,2000000
+5 Series,2011,11793,Petrol,Automatic,3000000
+X5,2011,73623,Petrol,Automatic,4500000
+X1,2021,133765,Petrol,Automatic,1800000
+3 Series,2012,121683,Petrol,Manual,2000000
+X3,2018,147126,Petrol,Automatic,2800000
+X3,2021,50636,Petrol,Automatic,2800000
+5 Series,2012,67058,Diesel,Automatic,3000000
+X1,2017,149610,Petrol,Automatic,1800000
+7 Series,2021,130479,Petrol,Automatic,5500000
+3 Series,2015,24441,Diesel,Manual,2000000
+5 Series,2023,149520,Petrol,Automatic,3000000
+X5,2010,37548,Diesel,Automatic,4500000
+5 Series,2021,64105,Diesel,Automatic,3040000
+5 Series,2020,149399,Diesel,Automatic,3000000
+X1,2011,136746,Petrol,Automatic,1800000
+X1,2019,93504,Petrol,Automatic,1800000
+X5,2022,74377,Diesel,Automatic,4660000
+3 Series,2020,148019,Diesel,Manual,2000000
+X3,2020,111454,Petrol,Automatic,2800000
+3 Series,2017,113952,Diesel,Manual,2000000
+X1,2015,88706,Diesel,Manual,1800000
+5 Series,2018,32835,Diesel,Automatic,3000000
+5 Series,2013,41930,Petrol,Automatic,3000000
+7 Series,2019,114611,Petrol,Automatic,5500000
+X5,2021,86976,Diesel,Automatic,4500000
+X1,2017,85882,Diesel,Automatic,1800000
+7 Series,2017,68105,Petrol,Automatic,5500000
+5 Series,2019,128361,Diesel,Automatic,3000000
+7 Series,2014,100886,Petrol,Automatic,5500000
+3 Series,2018,56027,Diesel,Manual,2000000
+X1,2022,149141,Diesel,Automatic,1800000
+3 Series,2015,93889,Diesel,Automatic,2000000
+X1,2018,15552,Petrol,Automatic,1800000
+5 Series,2017,141139,Diesel,Automatic,3000000
+X1,2015,88500,Petrol,Manual,1800000
+X3,2014,93178,Petrol,Automatic,2800000
+3 Series,2015,33732,Diesel,Manual,2000000
+X3,2021,11985,Petrol,Automatic,3230000
+X3,2022,64649,Diesel,Automatic,2800000
+X1,2019,104664,Petrol,Automatic,1800000
+X5,2011,55012,Diesel,Automatic,4500000
+3 Series,2021,58448,Diesel,Manual,2000000
+X3,2010,41197,Diesel,Automatic,2800000
+X1,2016,87248,Petrol,Manual,1800000
+5 Series,2015,74300,Diesel,Automatic,3000000
+5 Series,2014,63947,Diesel,Automatic,3000000
+X3,2017,88110,Petrol,Automatic,2800000
+X5,2021,76685,Petrol,Automatic,4500000
+X1,2016,95474,Petrol,Manual,1800000
+X5,2011,95797,Petrol,Automatic,4500000
+5 Series,2023,146184,Diesel,Automatic,3000000
+X1,2019,67726,Petrol,Automatic,1800000
+X1,2020,66036,Petrol,Automatic,1800000
+X3,2011,41036,Diesel,Automatic,2800000
+X5,2017,130160,Diesel,Automatic,4500000
+X3,2022,28451,Diesel,Automatic,3310000
+3 Series,2023,51081,Petrol,Manual,2050000
+3 Series,2021,80882,Petrol,Automatic,2000000
+X1,2015,79596,Diesel,Manual,1800000
+3 Series,2018,127688,Diesel,Automatic,2000000
+5 Series,2021,125301,Diesel,Automatic,3000000
+5 Series,2014,55636,Petrol,Automatic,3000000
+X1,2011,110076,Petrol,Automatic,1800000
+X1,2013,6790,Diesel,Manual,1800000
+X3,2015,84153,Diesel,Automatic,2800000
+X3,2010,35991,Petrol,Automatic,2800000
+X3,2021,86521,Diesel,Automatic,2800000
+5 Series,2012,130352,Petrol,Automatic,3000000
+X1,2016,148978,Diesel,Automatic,1800000
+X3,2019,26461,Petrol,Automatic,2800000
+X1,2010,148562,Petrol,Automatic,1800000
+X5,2017,35471,Diesel,Automatic,4500000
+X1,2022,19584,Diesel,Automatic,2060000
+7 Series,2010,126209,Petrol,Automatic,5500000
+X3,2021,62121,Diesel,Automatic,2800000
+X3,2018,20795,Diesel,Automatic,2800000
+7 Series,2022,40501,Petrol,Automatic,6210000
+7 Series,2023,103958,Petrol,Automatic,5500000
+X3,2018,39862,Petrol,Automatic,2800000
+X1,2018,38383,Petrol,Automatic,1800000
+X5,2017,147723,Petrol,Automatic,4500000
+5 Series,2015,45664,Diesel,Automatic,3000000
+X3,2011,13445,Petrol,Automatic,2800000
+3 Series,2019,13801,Diesel,Automatic,2000000
+3 Series,2017,66430,Petrol,Automatic,2000000
+X5,2013,88598,Petrol,Automatic,4500000
+3 Series,2020,141642,Petrol,Manual,2000000
+3 Series,2019,50910,Diesel,Manual,2000000
+5 Series,2020,104917,Diesel,Automatic,3000000
+5 Series,2012,146014,Diesel,Automatic,3000000
+5 Series,2021,42840,Diesel,Automatic,3200000
+X5,2018,143934,Diesel,Automatic,4500000
+5 Series,2020,25727,Diesel,Automatic,3050000
+X3,2013,18510,Petrol,Automatic,2800000
+X1,2023,24079,Petrol,Automatic,2070000
+X5,2015,84478,Diesel,Automatic,4500000
+X5,2011,130546,Diesel,Automatic,4500000
+5 Series,2015,79202,Diesel,Automatic,3000000
+5 Series,2014,99278,Diesel,Automatic,3000000
+X5,2017,88947,Diesel,Automatic,4500000
+3 Series,2023,63005,Petrol,Automatic,2000000
+X5,2019,114465,Petrol,Automatic,4500000
+5 Series,2019,69416,Diesel,Automatic,3000000
+X3,2021,133606,Petrol,Automatic,2800000
+5 Series,2012,148273,Diesel,Automatic,3000000
+X1,2020,20396,Petrol,Automatic,1860000
+X3,2022,6673,Petrol,Automatic,3420000
+5 Series,2021,44591,Petrol,Automatic,3160000
+5 Series,2019,131669,Diesel,Automatic,3000000
+X1,2010,9384,Diesel,Manual,1800000
+X3,2020,117872,Diesel,Automatic,2800000
+X1,2013,55313,Diesel,Manual,1800000
+7 Series,2015,111437,Petrol,Automatic,5500000
+5 Series,2020,26133,Petrol,Automatic,3150000
+5 Series,2017,19710,Petrol,Automatic,3000000
+X5,2020,91840,Diesel,Automatic,4500000
+X5,2021,129649,Petrol,Automatic,4500000
+X3,2014,147352,Diesel,Automatic,2800000
+5 Series,2013,42798,Diesel,Automatic,3000000
+X1,2019,107015,Diesel,Manual,1800000
+3 Series,2021,25559,Diesel,Automatic,2020000
+5 Series,2011,94284,Diesel,Automatic,3000000
+5 Series,2017,133608,Petrol,Automatic,3000000
+5 Series,2012,104633,Petrol,Automatic,3000000
+X3,2011,75247,Diesel,Automatic,2800000
+X1,2021,107137,Diesel,Manual,1800000
+3 Series,2014,121584,Diesel,Manual,2000000
+3 Series,2016,122661,Diesel,Automatic,2000000
+5 Series,2011,90047,Diesel,Automatic,3000000
+7 Series,2011,68633,Petrol,Automatic,5500000
+5 Series,2014,134269,Petrol,Automatic,3000000
+5 Series,2014,131938,Petrol,Automatic,3000000
+5 Series,2020,134971,Petrol,Automatic,3000000
+5 Series,2016,92088,Diesel,Automatic,3000000
+7 Series,2023,40684,Petrol,Automatic,6290000
+X3,2017,87361,Diesel,Automatic,2800000
+5 Series,2021,133714,Petrol,Automatic,3000000
+X3,2016,100686,Diesel,Automatic,2800000
+X1,2020,149205,Petrol,Manual,1800000
+5 Series,2022,81370,Petrol,Automatic,3000000
+3 Series,2014,68444,Diesel,Automatic,2000000
+X3,2011,122720,Petrol,Automatic,2800000
+X5,2023,114655,Diesel,Automatic,4500000
+X3,2019,27277,Diesel,Automatic,2800000
+5 Series,2020,16612,Diesel,Automatic,3430000
+7 Series,2010,30849,Petrol,Automatic,5500000
+X1,2019,62942,Diesel,Manual,1800000
+X3,2019,136194,Diesel,Automatic,2800000
+X1,2014,114045,Petrol,Automatic,1800000
+X3,2015,86760,Petrol,Automatic,2800000
+X1,2015,129823,Petrol,Manual,1800000
+7 Series,2011,83712,Petrol,Automatic,5500000
+5 Series,2011,48084,Petrol,Automatic,3000000
+5 Series,2016,126124,Petrol,Automatic,3000000
+3 Series,2020,118281,Diesel,Automatic,2000000
+X5,2017,117604,Petrol,Automatic,4500000
+5 Series,2022,21400,Petrol,Automatic,3560000
+3 Series,2011,73774,Diesel,Manual,2000000
+X1,2019,34945,Diesel,Manual,1800000
+X1,2023,82973,Petrol,Automatic,1800000
+5 Series,2011,52984,Diesel,Automatic,3000000
+7 Series,2012,105587,Petrol,Automatic,5500000
+X1,2020,50412,Petrol,Manual,1800000
+3 Series,2023,123227,Petrol,Manual,2000000
+X1,2013,105648,Diesel,Manual,1800000
+7 Series,2023,121353,Petrol,Automatic,5500000
+3 Series,2022,62810,Diesel,Automatic,2000000
+X1,2012,124884,Diesel,Automatic,1800000
+5 Series,2018,101170,Petrol,Automatic,3000000
+X5,2011,69888,Petrol,Automatic,4500000
+5 Series,2023,27802,Diesel,Automatic,3820000
+5 Series,2022,96915,Diesel,Automatic,3000000
+X3,2023,59248,Diesel,Automatic,3010000
+X1,2012,89843,Diesel,Manual,1800000
+X5,2018,29962,Diesel,Automatic,4500000
+X5,2023,38262,Diesel,Automatic,5350000
+5 Series,2013,107944,Diesel,Automatic,3000000
+5 Series,2016,103349,Diesel,Automatic,3000000
+X5,2011,110604,Petrol,Automatic,4500000
+X1,2019,5648,Petrol,Manual,1800000
+X3,2023,21601,Petrol,Automatic,3480000
+X3,2017,75395,Petrol,Automatic,2800000
+X1,2019,132228,Diesel,Automatic,1800000
+X1,2023,125476,Petrol,Automatic,1800000
+3 Series,2017,5177,Diesel,Automatic,2000000
+X5,2020,84132,Diesel,Automatic,4500000
+5 Series,2011,102476,Petrol,Automatic,3000000
+5 Series,2021,66379,Diesel,Automatic,3000000
+3 Series,2017,25431,Petrol,Automatic,2000000
+7 Series,2010,95065,Petrol,Automatic,5500000
+X1,2013,105419,Petrol,Automatic,1800000
+5 Series,2014,40947,Diesel,Automatic,3000000
+X3,2011,144069,Diesel,Automatic,2800000
+X3,2020,44681,Petrol,Automatic,2800000
+3 Series,2011,41703,Petrol,Manual,2000000
+7 Series,2022,41655,Petrol,Automatic,5980000
+5 Series,2019,79690,Petrol,Automatic,3000000
+X1,2013,107695,Diesel,Automatic,1800000
+X3,2013,134731,Petrol,Automatic,2800000
+X1,2011,143487,Petrol,Manual,1800000
+3 Series,2023,115326,Diesel,Automatic,2000000
+X5,2022,24134,Diesel,Automatic,5250000
+5 Series,2010,109326,Diesel,Automatic,3000000
+7 Series,2020,145657,Petrol,Automatic,5500000
+3 Series,2013,45731,Diesel,Manual,2000000
+X3,2020,22331,Petrol,Automatic,2880000
+X5,2010,69088,Diesel,Automatic,4500000
+X1,2010,86078,Petrol,Automatic,1800000
+3 Series,2010,47947,Diesel,Manual,2000000
+X3,2021,72960,Diesel,Automatic,2800000
+X3,2014,35947,Diesel,Automatic,2800000
+5 Series,2011,73930,Petrol,Automatic,3000000
+5 Series,2017,48746,Diesel,Automatic,3000000
+3 Series,2019,35234,Petrol,Automatic,2000000
+X5,2013,17053,Petrol,Automatic,4500000
+3 Series,2023,14270,Diesel,Automatic,2380000
+7 Series,2021,88869,Petrol,Automatic,5500000
+3 Series,2020,18807,Petrol,Automatic,2100000
+X5,2016,23068,Petrol,Automatic,4500000
+5 Series,2011,149989,Diesel,Automatic,3000000
+5 Series,2022,84668,Petrol,Automatic,3000000
+X5,2022,56228,Diesel,Automatic,4690000
+7 Series,2013,146962,Petrol,Automatic,5500000
+3 Series,2020,103638,Diesel,Automatic,2000000
+X5,2016,133982,Diesel,Automatic,4500000
+3 Series,2013,141251,Diesel,Manual,2000000
+X3,2019,30054,Diesel,Automatic,2800000
+X1,2016,39264,Petrol,Manual,1800000
+5 Series,2022,108010,Diesel,Automatic,3000000
+5 Series,2013,40680,Petrol,Automatic,3000000
+7 Series,2015,111564,Petrol,Automatic,5500000
+5 Series,2014,126463,Diesel,Automatic,3000000
+X3,2014,15572,Diesel,Automatic,2800000
+X3,2015,108873,Diesel,Automatic,2800000
+X5,2010,111008,Petrol,Automatic,4500000
+3 Series,2022,41645,Petrol,Automatic,2010000
+X3,2013,39266,Diesel,Automatic,2800000
+X1,2020,27030,Diesel,Automatic,1800000
+3 Series,2020,121242,Petrol,Automatic,2000000
+X3,2015,37119,Diesel,Automatic,2800000
+X5,2016,108546,Petrol,Automatic,4500000
+7 Series,2015,61286,Petrol,Automatic,5500000
+X5,2010,69431,Petrol,Automatic,4500000
+X1,2010,27995,Diesel,Manual,1800000
+3 Series,2022,142839,Petrol,Automatic,2000000
+X3,2015,130746,Petrol,Automatic,2800000
+X1,2016,75893,Petrol,Automatic,1800000
+5 Series,2022,78644,Petrol,Automatic,3000000
+X3,2013,46844,Diesel,Automatic,2800000
+5 Series,2023,19656,Petrol,Automatic,3760000
+X3,2023,50537,Diesel,Automatic,3120000
+X3,2021,99052,Diesel,Automatic,2800000
+X1,2019,54344,Diesel,Manual,1800000
+3 Series,2010,65980,Petrol,Automatic,2000000
+3 Series,2019,57812,Petrol,Manual,2000000
+X5,2023,89826,Diesel,Automatic,4500000
+X3,2012,34077,Petrol,Automatic,2800000
+X5,2016,31484,Petrol,Automatic,4500000
+X5,2021,119522,Petrol,Automatic,4500000
+X5,2021,98539,Diesel,Automatic,4500000
+X3,2014,38383,Diesel,Automatic,2800000
+X5,2016,13488,Diesel,Automatic,4500000
+X5,2013,32291,Petrol,Automatic,4500000
+3 Series,2015,88759,Petrol,Automatic,2000000
+X3,2021,93014,Petrol,Automatic,2800000
+5 Series,2011,96876,Diesel,Automatic,3000000
+3 Series,2017,115009,Petrol,Manual,2000000
+5 Series,2018,103395,Petrol,Automatic,3000000
+X1,2022,64135,Petrol,Manual,1800000
+X5,2014,10263,Petrol,Automatic,4500000
+3 Series,2012,103424,Petrol,Automatic,2000000
+X5,2011,93591,Petrol,Automatic,4500000
+X3,2019,118823,Diesel,Automatic,2800000
+5 Series,2013,112290,Diesel,Automatic,3000000
+3 Series,2016,149090,Diesel,Automatic,2000000
+3 Series,2011,82214,Diesel,Automatic,2000000
+5 Series,2020,81496,Petrol,Automatic,3000000
+5 Series,2016,128455,Diesel,Automatic,3000000
+X1,2012,102260,Diesel,Manual,1800000
+3 Series,2017,126912,Diesel,Automatic,2000000
+X1,2012,30350,Petrol,Manual,1800000
+7 Series,2022,64641,Petrol,Automatic,5590000
+7 Series,2018,129472,Petrol,Automatic,5500000
+7 Series,2023,14103,Petrol,Automatic,7110000
+7 Series,2012,60545,Petrol,Automatic,5500000
+3 Series,2020,119135,Petrol,Automatic,2000000
+5 Series,2021,22566,Petrol,Automatic,3420000
+X1,2023,77404,Diesel,Automatic,1810000
+X1,2018,114994,Petrol,Manual,1800000
+X1,2019,31267,Petrol,Automatic,1800000
+X5,2015,112712,Petrol,Automatic,4500000
+X1,2017,14821,Petrol,Manual,1800000
+X1,2020,110308,Petrol,Manual,1800000
+5 Series,2013,17921,Diesel,Automatic,3000000
+3 Series,2023,84444,Diesel,Manual,2000000
+X5,2020,30747,Diesel,Automatic,4740000
+X3,2022,89113,Petrol,Automatic,2800000
+3 Series,2017,60414,Diesel,Manual,2000000
+X5,2023,19734,Diesel,Automatic,5790000
+X1,2012,142438,Petrol,Automatic,1800000
+X3,2023,20106,Diesel,Automatic,3420000
+X5,2021,57195,Petrol,Automatic,4670000
+X1,2020,37472,Petrol,Automatic,1800000
+X1,2012,129408,Diesel,Manual,1800000
+X5,2021,28695,Petrol,Automatic,4950000
+3 Series,2019,61182,Petrol,Automatic,2000000
+5 Series,2016,139553,Petrol,Automatic,3000000
+3 Series,2012,7218,Petrol,Manual,2000000
+X5,2021,77188,Petrol,Automatic,4500000
+7 Series,2013,127342,Petrol,Automatic,5500000
+3 Series,2020,103102,Diesel,Manual,2000000
+X1,2015,77478,Diesel,Manual,1800000
+X3,2020,83326,Diesel,Automatic,2800000
+5 Series,2010,110931,Diesel,Automatic,3000000
+X3,2014,73007,Petrol,Automatic,2800000
+3 Series,2021,54785,Diesel,Automatic,2000000
+X1,2017,98977,Diesel,Automatic,1800000
+X5,2012,82013,Diesel,Automatic,4500000
+5 Series,2022,52990,Diesel,Automatic,3140000
+5 Series,2023,85500,Diesel,Automatic,3000000
+X1,2017,35875,Diesel,Automatic,1800000
+X1,2019,23668,Diesel,Automatic,1800000
+X5,2016,143893,Petrol,Automatic,4500000
