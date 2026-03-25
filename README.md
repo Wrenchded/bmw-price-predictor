@@ -2,7 +2,7 @@
 
 A full-stack **Machine Learning** application that predicts the price of used BMW cars in India.
 
-Built as a complete production-style project with **ML + FastAPI + HTML/CSS + Render + Netlify**.
+Built as a complete production-style project with **ML + FastAPI + HTML/CSS/Streamlit + Render + Netlify**.
 
 Link : https://bmw-price-predictor.netlify.app/
 
@@ -22,6 +22,6 @@ Link : https://bmw-price-predictor.netlify.app/
 |----------------|-----------------------------|
 | ML Model       | scikit-learn (RandomForest) |
 | Backend        | FastAPI + Pydantic          |
-| Frontend       | Streamlit                   |
+| Frontend       | HTML/CSS/Streamlit          |
 | Deployment     | Render + Netlify            | 
 | Data           | 600 BMW records             |
